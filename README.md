@@ -1,6 +1,7 @@
 ## Hi there! I'm Samwel Mwangi 👋
 
 Also known as SaaS (Sam-as-a-Service)
+
 🚀 Welcome to my digital playground where **Data Science**, **Data Analytics**, **Cloud** and **Project Management** collide!💻
 
 **About Me:**
@@ -29,7 +30,7 @@ _Did you know?_ Data never sleeps... but I sure try to! 💤
 Connect with me, and let’s analyze, visualize, and manage all the things! 🚀
 
 ### How to Reach Me:
-- 🏢 [LinkedIn](https://www.linkedin.com/in/samwel-njoroge-mwangi) - Let's connect and chat about all things data!
+- 🏢 [LinkedIn](https://www.linkedin.com/in/samwel-mwangi-2a6342234/) - Let's connect and chat about all things data!
 
 <!--
 **Samtechies/Samtechies** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
