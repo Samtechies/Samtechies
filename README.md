@@ -2,7 +2,7 @@
 
 Also known as SaaS (Sam-as-a-Service)
 
-🚀 Welcome to my digital playground where **Data Science**, **Data Analytics**, **Cloud** and **Project Management** collide!💻
+Welcome to my digital playground where **Data Science**, **Data Analytics**, **Cloud** and **Project Management** collide!💻
 
 **About Me:**
   -  🧠 Data nerd with a passion for crunching numbers and extracting valuable insights.
